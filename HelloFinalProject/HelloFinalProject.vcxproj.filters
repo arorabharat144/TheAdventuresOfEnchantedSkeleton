@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Network">
+      <UniqueIdentifier>{f0ec6b83-30bc-4466-aba1-abb42f47309a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Network">
+      <UniqueIdentifier>{afa9e446-11de-4d4b-b2b3-ae5cadddd4a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MenuStuff">
+      <UniqueIdentifier>{ed15159c-ad54-48ad-a47a-81dc0ea19f81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MenuStuff">
+      <UniqueIdentifier>{ba619125-d843-495b-8666-23cab9704d3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MultiPlayer">
+      <UniqueIdentifier>{b82459bb-6363-4859-9f0f-52497925416c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MultiPlayer">
+      <UniqueIdentifier>{5bef5219-1c30-4151-a363-361c77370d94}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlatformManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Power.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiplayerSelector.cpp">
+      <Filter>Source Files\MenuStuff</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlScheme.cpp">
+      <Filter>Source Files\MenuStuff</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files\MenuStuff</Filter>
+    </ClCompile>
+    <ClCompile Include="Credits.cpp">
+      <Filter>Source Files\MenuStuff</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiplayerSessionCreator.cpp">
+      <Filter>Source Files\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiplayerSessionJoiner.cpp">
+      <Filter>Source Files\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="Socket.cpp">
+      <Filter>Source Files\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="GameplaySinglePlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiPlayerManagerHost.cpp">
+      <Filter>Source Files\MultiPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="GameplayMultiPlayerHost.cpp">
+      <Filter>Source Files\MultiPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="GameplayMultiPlayerClient.cpp">
+      <Filter>Source Files\MultiPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiPlayerManagerClient.cpp">
+      <Filter>Source Files\MultiPlayer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Animator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FramesHolder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlatformManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Power.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiplayerSelector.h">
+      <Filter>Header Files\MenuStuff</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlScheme.h">
+      <Filter>Header Files\MenuStuff</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files\MenuStuff</Filter>
+    </ClInclude>
+    <ClInclude Include="Credits.h">
+      <Filter>Header Files\MenuStuff</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiplayerSessionCreator.h">
+      <Filter>Header Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiplayerSessionJoiner.h">
+      <Filter>Header Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Network.h">
+      <Filter>Header Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Socket.h">
+      <Filter>Header Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="NetworkAddress.h">
+      <Filter>Header Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Packet.h">
+      <Filter>Header Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="NetworkData.h">
+      <Filter>Header Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="GameplaySinglePlayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameplayMultiPlayerHost.h">
+      <Filter>Header Files\MultiPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiPlayerManagerHost.h">
+      <Filter>Header Files\MultiPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="GameplayMultiPlayerClient.h">
+      <Filter>Header Files\MultiPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiPlayerManagerClient.h">
+      <Filter>Header Files\MultiPlayer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="xconfig.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="enemy_data.txt" />
+  </ItemGroup>
+</Project>

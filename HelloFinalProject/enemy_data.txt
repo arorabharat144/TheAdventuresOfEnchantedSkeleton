@@ -1,0 +1,81 @@
+Number of Enemies: 20
+
+At Scroll Number 0
+Spawn Enemy Type 2 With Speed = 100
+With Waypoint 1 = 500 and Waypoint 2 = 700
+
+At Scroll Number 1
+Spawn Enemy Type 2 With Speed = 200
+With Waypoint 1 = 1000 and Waypoint 2 = 1100
+
+At Scroll Number 2
+Spawn Enemy Type 1 With Speed = 200
+With Waypoint 1 = 928 and Waypoint 2 = 1200
+
+At Scroll Number 2
+Spawn Enemy Type 3 With Speed = 100
+With Waypoint 1 = 1000 and Waypoint 2 = 1350
+
+At Scroll Number 3
+Spawn Enemy Type 2 With Speed = 150
+With Waypoint 1 = 1500 and Waypoint 2 = 1700
+
+At Scroll Number 3
+Spawn Enemy Type 3 With Speed = 250
+With Waypoint 1 = 975 and Waypoint 2 = 1100
+
+At Scroll Number 3
+Spawn Enemy Type 1 With Speed = 150
+With Waypoint 1 = 1000 and Waypoint 2 = 1400
+
+At Scroll Number 4
+Spawn Enemy Type 1 With Speed = 150
+With Waypoint 1 = 1000 and Waypoint 2 = 1800
+
+At Scroll Number 4
+Spawn Enemy Type 1 With Speed = 175
+With Waypoint 1 = 1200 and Waypoint 2 = 1400
+
+At Scroll Number 5
+Spawn Enemy Type 1 With Speed = 275
+With Waypoint 1 = 1200 and Waypoint 2 = 1400
+
+At Scroll Number 6
+Spawn Enemy Type 2 With Speed = 275
+With Waypoint 1 = 1200 and Waypoint 2 = 1700
+
+At Scroll Number 6
+Spawn Enemy Type 1 With Speed = 175
+With Waypoint 1 = 1200 and Waypoint 2 = 1500
+
+At Scroll Number 7
+Spawn Enemy Type 3 With Speed = 100
+With Waypoint 1 = 1100 and Waypoint 2 = 1900
+
+At Scroll Number 7
+Spawn Enemy Type 3 With Speed = 200
+With Waypoint 1 = 1500 and Waypoint 2 = 1900
+
+At Scroll Number 8
+Spawn Enemy Type 2 With Speed = 125
+With Waypoint 1 = 1000 and Waypoint 2 = 1200
+
+At Scroll Number 8
+Spawn Enemy Type 2 With Speed = 125
+With Waypoint 1 = 1175 and Waypoint 2 = 1375
+
+At Scroll Number 8
+Spawn Enemy Type 1 With Speed = 75
+With Waypoint 1 = 1300 and Waypoint 2 = 1700
+
+At Scroll Number 9
+Spawn Enemy Type 1 With Speed = 275
+With Waypoint 1 = 1250 and Waypoint 2 = 1500
+
+At Scroll Number 10
+Spawn Enemy Type 3 With Speed = 275
+With Waypoint 1 = 1075 and Waypoint 2 = 1450
+
+At Scroll Number 10
+Spawn Enemy Type 1 With Speed = 125
+With Waypoint 1 = 1225 and Waypoint 2 = 1725
